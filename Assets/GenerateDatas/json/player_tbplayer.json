@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 1,
+    "exp": 0,
+    "hp": 100,
+    "attack": "2D4",
+    "ac": 10,
+    "thac0": 0,
+    "icon": "image/hero"
+  },
+  {
+    "id": 2,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 2,
+    "exp": 0,
+    "hp": 110,
+    "attack": "2D5",
+    "ac": 11,
+    "thac0": 1,
+    "icon": "image/hero"
+  },
+  {
+    "id": 3,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 3,
+    "exp": 0,
+    "hp": 120,
+    "attack": "2D6",
+    "ac": 12,
+    "thac0": 2,
+    "icon": "image/hero"
+  },
+  {
+    "id": 4,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 4,
+    "exp": 0,
+    "hp": 130,
+    "attack": "2D7",
+    "ac": 13,
+    "thac0": 3,
+    "icon": "image/hero"
+  },
+  {
+    "id": 5,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 5,
+    "exp": 0,
+    "hp": 140,
+    "attack": "2D8",
+    "ac": 14,
+    "thac0": 4,
+    "icon": "image/hero"
+  },
+  {
+    "id": 6,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 6,
+    "exp": 0,
+    "hp": 150,
+    "attack": "2D9",
+    "ac": 15,
+    "thac0": 5,
+    "icon": "image/hero"
+  },
+  {
+    "id": 7,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 7,
+    "exp": 0,
+    "hp": 160,
+    "attack": "2D10",
+    "ac": 16,
+    "thac0": 6,
+    "icon": "image/hero"
+  },
+  {
+    "id": 8,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 8,
+    "exp": 0,
+    "hp": 170,
+    "attack": "2D11",
+    "ac": 17,
+    "thac0": 7,
+    "icon": "image/hero"
+  },
+  {
+    "id": 9,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 9,
+    "exp": 0,
+    "hp": 180,
+    "attack": "2D12",
+    "ac": 18,
+    "thac0": 8,
+    "icon": "image/hero"
+  },
+  {
+    "id": 10,
+    "name": "勇士",
+    "desc": "勇士",
+    "level": 10,
+    "exp": 0,
+    "hp": 190,
+    "attack": "2D13",
+    "ac": 19,
+    "thac0": 9,
+    "icon": "image/hero"
+  }
+]
